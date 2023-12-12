@@ -1,6 +1,6 @@
 ## Projeto Git e GitHub
 
-Esse projeto possui a finalidade de executar tarefas relacionadas a Git e GitHub seguindo as seguintes instruções:
+Esse projeto possui a finalidade de executar tarefas relacionadas a Git e GitHub para a disciplina de Introdução a computação seguindo as seguintes instruções:
 
 <ol>
   <li>Criar um repositório no GitHub único para o grupo (público)</li>
